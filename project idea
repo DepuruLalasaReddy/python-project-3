@@ -1,0 +1,19 @@
+Real-Time Face Detection Using Python and Mobile Phone Camera
+
+Install DroidCam on your mobile:
+
+Android: Google Play - DroidCam
+
+iOS: App Store - DroidCam
+
+Install DroidCam Client on your PC:
+👉 Download for Windows/Linux
+
+Connect your mobile and PC:
+
+Open DroidCam on both
+
+Ensure both are on the same Wi-Fi
+
+Note the IP address and port (e.g., 192.168.1.100:4747)
+
